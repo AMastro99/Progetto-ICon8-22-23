@@ -17,9 +17,9 @@ Più in particolare si è ipotizzata la possibilità che un’azienda ospedalier
 ## Struttura sistema
 
 Il sistema è costituito da:
-• Knowledge Base (KB)
-• Modulo di Creazione e gestione terapie intensive (CSP)
-• Modulo di Apprendimento non supervisionato (K-Means)
+- Knowledge Base (KB)
+- Modulo di Creazione e gestione terapie intensive (CSP)
+- Modulo di Apprendimento non supervisionato (K-Means)
 
 ## Dettagli
 
